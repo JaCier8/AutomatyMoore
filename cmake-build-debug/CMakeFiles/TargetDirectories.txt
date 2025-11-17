@@ -1,0 +1,3 @@
+/home/jappa/CLionProjects/AutomatyMoora/cmake-build-debug/CMakeFiles/AutomatyMoore.dir
+/home/jappa/CLionProjects/AutomatyMoora/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jappa/CLionProjects/AutomatyMoora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
